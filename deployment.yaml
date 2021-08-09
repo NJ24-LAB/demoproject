@@ -9,5 +9,5 @@
    - name: Create a docker container
      docker_container:
         name: tomcat_deploy
-        image: my-image
+        image: myimage
         
